@@ -1,5 +1,5 @@
 # DS2024_SDE
-Code for paper Stochastic differential equation discovery using evolutionary approach submitted to Discovery Science 2024 conference
+Code for paper Stochastic differential equation discovery using evolutionary approach submitted to Discovery Science 2024 conference.
 The repository includes the results of numerical experiments presented in the study:
 - Dynamics of the behavior of the open-price equation depending on the selected interval: day, month, quarter. Input data is provided.
 
